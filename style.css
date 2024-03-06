@@ -269,16 +269,39 @@ h1.rty {
 }
 .www {
 text-align: center;
+
 }
 #ghj {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 100px;
-}
+    }
 .dfg {
     font-size: 35px;
     color: rgb(243, 68, 68);
 
 }
 
+.yyy {
+    width: 50px;
+    height: 50px;
+    filter: drop-shadow(0 0 0.75rem crimson);
+    filter: drop-shadow(3px 5px 4px crimson);
+}
+.yyy1 {
+    width: 50px;
+    height: 50px;
+    filter: drop-shadow(0 0 0.75rem rgb(0, 255, 98));
+    filter: drop-shadow(3px 5px 4px rgb(0, 255, 98));
+}
+.yyy2 {
+    width: 50px;
+    height: 50px;
+    filter: drop-shadow(0 0 0.75rem rgb(0, 195, 255));
+    filter: drop-shadow(3px 5px 4px rgb(0, 195, 255));
+}
+.vcb {
+    filter: drop-shadow(0 0 0.75rem crimson);
+    filter: drop-shadow(3px 5px 4px crimson);`  z
+}
